@@ -6,4 +6,4 @@
 
 - 🔭 I’m currently working on data analytics projects
 - 🌱 I’m currently learning everything related to data science
-- ⚡ Fun fact: I have a kitty cat named Kiwi
+- ⚡ Fun fact: -
